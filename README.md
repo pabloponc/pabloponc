@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Ponce</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">I am a creative person, with a great capacity for team work and with entrepreneurial spirit. I am very bullish on diving into my first software development job, eager to contribute a lot and learn every day. 😄😄.
+I am a Full Stack Web Developer, received at Henry´s bootcamp with +700 hours.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
